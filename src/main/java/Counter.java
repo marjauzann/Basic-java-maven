@@ -9,7 +9,7 @@ public class Counter {
 	}
 		
 	public void reset() {
-		countasd = 0;
+		count = 0;
 	}
 	
 	public void increment() {
